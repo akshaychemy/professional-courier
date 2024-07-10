@@ -1,0 +1,6 @@
+npm install express mongoose dotenv body-parser cors
+npm install --save-dev nodemon
+
+
+mkdir config controllers models routes
+touch server.js .env
